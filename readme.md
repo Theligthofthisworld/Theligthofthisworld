@@ -50,7 +50,7 @@ I enjoy understanding how software works under the hood and how to analyze and i
 
 ## 📊 Languages Breakdown
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Theligthofthisworld&layout=compact&theme=tokyonight&langs_count=6)
+![Top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Theligthofthisworld&layout=compact&theme=tokyonight&langs_count=6&cache_seconds=0)
 
 ---
 
